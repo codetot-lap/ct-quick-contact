@@ -24,7 +24,7 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 define( 'CT_QUICK_CONTACT_VERSION', '1.0.0' );
-define( 'CT_QUICK_CONTACT_PLUGIN_SLUG', 'ct-blocks' );
+define( 'CT_QUICK_CONTACT_PLUGIN_SLUG', 'ct-quick-contact' );
 define( 'CT_QUICK_CONTACT_PLUGIN_NAME', esc_html_x('CT Quick Contact', 'plugin name', 'ct-quick-contact'));
 define( 'CT_QUICK_CONTACT_DIR', plugin_dir_path(__FILE__));
 define( 'CT_QUICK_CONTACT_PATH', dirname( plugin_basename( __FILE__ ) ) );
