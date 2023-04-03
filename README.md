@@ -1,1 +1,1 @@
-# ct-quick-contact
+# Plugin: CT Quick Contact
